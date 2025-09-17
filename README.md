@@ -2,7 +2,7 @@
 
 EduTutor is an interactive **online tutoring platform** that helps students connect with mentors, access learning resources, and improve their skills through a seamless and user-friendly interface.  
 
-🔗 **Live Demo:** [Click Here](https://4fed0a39ea83af04dc.gradio.live/)  
+🔗 **Live Demo:** [Click Here]((https://4fed0a39ea83af04dc.gradio.live/))  
 📂 **GitHub Repo:** [EduTutor](https://github.com/mgc7sureshe23-tech/Edututor.git)  
 
 ---
